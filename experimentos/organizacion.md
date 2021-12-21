@@ -19,3 +19,5 @@ Al finalizar un diseño tenemos que añadir tanto el enlace del prototipo () com
 {% endhint %}
 
 Los prototipos que se compartan, siempre tienen que ser 'Anyone with the link' + 'can view prototypes only', de esta manera puede verlo cualquier persona de la empresa o cualquier cliente sin tener que entrar a nuestro fichero de diseño con pruebas u otras cosas que tengamos, así solo mostramos el diseño final.
+
+![](<../.gitbook/assets/Captura de pantalla 2021-12-21 a las 14.25.06.png>)
