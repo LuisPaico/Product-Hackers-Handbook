@@ -23,7 +23,3 @@ Por último, como ya comentamos en la parte de componentes tenemos que ser cuida
 * Cambio de posiciones de texto dentro de un autolayout (no afecta al texto)
 * Duplicar el texto dentro de un autolayout no afecta al texto añadido pero el nuevo volverá al texto por original del componente (afecta al nuevo texto creado pero no al que ya existía)
 {% endhint %}
-
-y recuerda...
-
-![](../.gitbook/assets/IMG\_3114.PNG)
