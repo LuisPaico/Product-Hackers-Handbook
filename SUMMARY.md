@@ -11,6 +11,6 @@
 
 ## Parte 2: Experimentos <a href="#experimentos" id="experimentos"></a>
 
-* [Organización](experimentos/untitled.md)
+* [Organización](experimentos/organizacion.md)
 * [Auto layout](experimentos/responsive.md)
 * [Interacción (Coming soon)](experimentos/interaccion.md)
