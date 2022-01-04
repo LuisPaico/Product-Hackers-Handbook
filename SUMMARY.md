@@ -2,6 +2,11 @@
 
 * [Product Design Handbook](README.md)
 
+## Product Hackers <a href="#ph" id="ph"></a>
+
+* [RH](ph/rh.md)
+* [Brand](ph/brand.md)
+
 ## Experimentación con cliente <a href="#experimentacion" id="experimentacion"></a>
 
 * [Organización](experimentacion/organizacion.md)
@@ -14,8 +19,3 @@
 * [Tipografía](stards/tipografia.md)
 * [Componentes](stards/componentes.md)
 * [Librería](stards/libreria.md)
-
-## Product Hackers <a href="#ph" id="ph"></a>
-
-* [RH](ph/rh.md)
-* [Brand](ph/brand.md)
