@@ -4,7 +4,7 @@
 
 ## Product Hackers <a href="#ph" id="ph"></a>
 
-* [RH](ph/rh.md)
+* [Welcome!](ph/welcome.md)
 * [Brand](ph/brand.md)
 
 ## Experimentación con cliente <a href="#experimentacion" id="experimentacion"></a>
