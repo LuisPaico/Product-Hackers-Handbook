@@ -5,3 +5,8 @@
 Actualmente, se encuentra en fase de desarrollo por lo que todo feedback de mejora es bienvenido. Tenemos un canal de slack donde se puede comentar todo lo relacionado con experimentor, incluidas ideas, mejoras, fallos...
 
 {% embed url="https://producthackersteam.slack.com/archives/CNQ5C4HEX" %}
+
+Experimentor está en mejora continua, al ser un proyecto grande separamos las pantallas por secciones y vamos trabajando según sus distintos flujos.
+
+![](<../.gitbook/assets/Captura de pantalla 2022-01-13 a las 9.34.56.png>)
+
